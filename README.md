@@ -1,5 +1,5 @@
-README
-======
+GithubInvestigator
+==================
 
 What is GithubInvestigator ?
 ----------------------------
@@ -13,6 +13,10 @@ Like this :
 
 How to use GithubInvestigator ?
 -------------------------------
+
+#### Requirements
+- python 2.7
+
 
 *Execute command:*
 ```bash
